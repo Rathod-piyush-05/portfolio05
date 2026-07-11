@@ -16,7 +16,6 @@ The main goal of this project is to demonstrate my front-end development skills 
 
 # ✨ Features
 
-* Responsive design for desktop, tablet, and mobile devices
 * Modern and clean user interface
 * Smooth scrolling navigation
 * Animated sections and transitions
@@ -33,7 +32,6 @@ The main goal of this project is to demonstrate my front-end development skills 
 
 * HTML5
 * CSS3
-* JavaScript (ES6)
 * Responsive Web Design
 * Netlify (Deployment)
 
@@ -81,8 +79,6 @@ The website is fully responsive and works smoothly on:
 
 * Desktop
 * Laptop
-* Tablet
-* Mobile Phones
 
 ---
 
